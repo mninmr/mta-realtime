@@ -1,0 +1,6 @@
+module.exports = {
+  options: {
+    host:'datamine.mta.info',
+    path:'/mta_esi.php?key=28cbb82ea28b3afa7c2f0cdc7cc7b030&feed_id=1'
+  }
+}
